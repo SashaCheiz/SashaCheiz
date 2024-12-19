@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Header](https://github.com/SashaCheiz/SashaCheiz/blob/main/assets/My%20logo.png)
 <!--
 **SashaCheiz/SashaCheiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
