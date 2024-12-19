@@ -1,8 +1,9 @@
+
 ## Hi there 👋
 
 ![Header](https://github.com/SashaCheiz/SashaCheiz/blob/main/assets/My%20logo.png)
 ![Profile_views](https://komarev.com/ghpvc/?username=SashaCheiz&color=green&style=for-the-badge)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Engeneer+(manual%2Bauto))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Engeneer)](https://git.io/typing-svg)
 
 ### About me
 
