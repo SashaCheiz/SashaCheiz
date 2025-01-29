@@ -21,6 +21,10 @@
 
 Мое кредо: Выспимся на том свете! Поэтому если есть силы, желания и цели, то действуй!
 
+Ссылка на MIRO, там есть примеры моих чек-листов
+'(https://miro.com/app/board/uXjVL0j9oSE=/?share_link_id=472081324393)'
+
+
 ### Tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
