@@ -23,6 +23,8 @@
 
 Ссылка на MIRO, там есть примеры моих чек-листов
 '(https://miro.com/app/board/uXjVL0j9oSE=/?share_link_id=472081324393)'
+Ссылка на VC.ru, там я поделился опытом тестирования одного из проектов
+' https://vc.ru/life/1803670-140-bagov-kak-vam-takoe '
 
 
 ### Tools
