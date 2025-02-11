@@ -27,7 +27,7 @@
 
 
 Ссылка на VC.ru, там я поделился опытом тестирования одного из проектов
-' https://vc.ru/life/1803670-140-bagov-kak-vam-takoe '
+'(https://vc.ru/life/1803670-kak-my-nashli-140-bagov-v-prilozhenii-i-pochemu-eto-stalo-opytom-dlya-vseh)'
 
 
 ### Tools
